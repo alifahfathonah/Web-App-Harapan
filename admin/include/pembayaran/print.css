@@ -1,0 +1,26 @@
+.text-center{
+	text-align:center;
+}
+body{
+	margin:20px;
+}
+
+table{
+	border-collapse: collapse;
+	margin-top: 20px;
+}
+
+td, th{
+	padding: 14px;
+}
+
+.text {
+	text-align: center;
+	font-weight: bold;
+	margin: 0px;
+	padding: 0px;
+}
+
+.text1 {
+	font-weight: bold;
+}

@@ -1,0 +1,42 @@
+.no-gutters {
+  margin-right: 0;
+  margin-left: 0;
+
+  > .col,
+  > [class*="col-"] {
+    padding-right: 0;
+    padding-left: 0;
+  }
+}
+
+.btn-custom {
+	background-color: #30336b;
+	color: white;
+}
+
+.box-img {
+	height: 430px;
+	transition: all .5s;
+}
+
+.box-img:hover {
+	box-shadow: 0px 0px 3px #333;
+	padding: 0px 10px;
+}
+
+.box-img p {
+	width: 100%;
+}
+
+.content {
+	padding: 10px;
+}
+
+.nav-link {
+	font-size: 1.3em;
+	text-transform: uppercase;
+}
+
+.header {
+	box-shadow: 0px 0px 5px black;
+}
